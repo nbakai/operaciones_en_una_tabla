@@ -28,7 +28,7 @@ INSERT INTO comentarios(id, fecha_y_hora_de_creacion, contenido_coment) VALUES(1
 INSERT INTO comentarios(id, fecha_y_hora_de_creacion, contenido_coment) VALUES(6, '2019-09-14 11:40:22-07', 'Ut ante enim, dapibus malesuada, fringilla eu, condimentum');
 INSERT INTO comentarios(id, fecha_y_hora_de_creacion, contenido_coment) VALUES(6, '2019-09-15 12:10:10-04', 'Etiam eu urna. Sed porta. Suspendisse quam');
 INSERT INTO comentarios(id, fecha_y_hora_de_creacion, contenido_coment) VALUES(6, '2019-09-15 13:10:10-04', 'Sed porta. Suspendisse quamvehicula ut, pulvinar eu');
-INTO comentarios(id, fecha_y_hora_de_creacion, contenido_coment) VALUES(6, '2019-09-15 19:50:52-09', 'Pellentesque habitant morbi tristique senectus et netus');
+INSERT INTO comentarios(id, fecha_y_hora_de_creacion, contenido_coment) VALUES(6, '2019-09-15 19:50:52-09', 'Pellentesque habitant morbi tristique senectus et netus');
 INSERT INTO post(nombre_de_usuario, fecha_de_creacion, contenido, descripcion, titulo) VALUES('Margarita','2019-09-15', 'Phasellus pellentesque aliquam enim. Proin dui lectus, cursus eu, mattis laoreet, viverra sit amet, quam. Curabitur vel dolor', 'seguimos con el lorem ipsum', 'Phasellus');
 
 INSERT INTO comentarios(id, fecha_y_hora_de_creacion, contenido_coment) VALUES(7, '2019-10-01 19:40:22-09', 'Aliquam erat volutpat. Quisque dignissim congue leo');
